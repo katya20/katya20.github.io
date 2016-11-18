@@ -10,6 +10,8 @@ body {
 #header {
   color: white;
   font-family: Tahoma, Geneva, sans-serif; 
+  margin-left: 10px;
+  margin-top: 10px;
 }
 
 #bio {
@@ -23,6 +25,14 @@ body {
   height: 100%;
 }
 
+.bio-container{
+  background:rgba(255,255,255,0.4);
+  width: 350px;
+  margin-left: inherit;
+  border: 3px solid white;
+  margin: 20px;
+}
+
 .title-container{
   background:rgba(255,255,255,0.4);
   width: 350px;
@@ -30,6 +40,8 @@ body {
   border: 3px solid white;
   margin: 20px;
 }
+
+
 
 .diamond {
   color: white;
