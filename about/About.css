@@ -7,6 +7,10 @@ body {
   height: 100%;
 }
 
+#header {
+  color: white;
+  font-family: Tahoma, Geneva, sans-serif; 
+}
 
 #bio {
   color: white;
@@ -15,21 +19,20 @@ body {
 
 .wrapper {
   display:flex;
-  align-items: center;
   justify-content: center;
   height: 100%;
 }
 
 .title-container{
-  background:rgba(255,255,255,0.3);
+  background:rgba(255,255,255,0.4);
   width: 350px;
-  text-align: center;
-  border: 7px solid white;
-  margin: auto;
+  margin-left: inherit;
+  border: 3px solid white;
+  margin: 20px;
 }
 
 .diamond {
-  color: midnightblue;
+  color: white;
   opacity: 0.6;
 }
 
@@ -51,7 +54,7 @@ li {
 li a {
   display: block;
   color: white;
-  text-align: center;
+/*  text-align: center;*/
   padding: 14px 16px;
   text-decoration: none;
 }
