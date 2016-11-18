@@ -26,9 +26,9 @@ body {
 .title-container{
   background:rgba(255,255,255,0.4);
   width: 350px;
-/*  text-align: center;*/
+  margin-left: inherit;
   border: 3px solid white;
-  margin: auto;
+  margin: 20px;
 }
 
 .diamond {
