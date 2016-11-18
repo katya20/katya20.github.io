@@ -1,0 +1,62 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-image: URL("http://yldist.com/ms/wp-content/uploads/sites/1/nggallery/website-backgrounds/bg-1.jpg");
+    height: 100%;
+}
+
+#title {
+  color: white;
+  font-family: Tahoma, Geneva, sans-serif; 
+}
+
+.wrapper {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.title-container{
+  background:rgba(255,255,255,0.3);
+  width: 350px;
+  text-align: center;
+  border: 7px solid white;
+  margin: auto;
+}
+
+.diamond {
+  color: midnightblue;
+  opacity: 0.6;
+}
+
+#navBar{
+ color: white; 
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background:rgba(255,255,255,0.3);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: pink;
+  opacity: 0.8;
+  color: white;
+}
