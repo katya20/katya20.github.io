@@ -29,13 +29,7 @@ body {
   height: 100%;
 }
 
-.bio-container{
-  background:rgba(255,255,255,0.4);
-  width: 350px;
-  margin-left: inherit;
-  border: 3px solid white;
-  margin: 20px;
-}
+
 
 .title-container{
   background:rgba(255,255,255,0.4);
