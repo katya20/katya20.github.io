@@ -7,6 +7,10 @@ body {
   height: 100%;
 }
 
+#header {
+  color: white;
+  font-family: Tahoma, Geneva, sans-serif; 
+}
 
 #bio {
   color: white;
