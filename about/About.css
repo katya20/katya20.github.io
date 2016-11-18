@@ -17,6 +17,9 @@ body {
 #bio {
   color: white;
   font-family: Tahoma, Geneva, sans-serif; 
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .wrapper {
