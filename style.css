@@ -56,7 +56,7 @@ li a {
 }
 
 li a:hover {
-  background-color: purp;
+  background-color: dimgrey;
   opacity: 0.8;
   color: white;
 }
