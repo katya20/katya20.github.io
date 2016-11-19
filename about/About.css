@@ -39,7 +39,11 @@ body {
   margin: 20px;
 }
 
-#
+#pic {
+  margin-top: 10px;
+  border: 3px solid white;
+  
+}
 
 
 .diamond {
