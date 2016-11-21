@@ -75,7 +75,7 @@ li a {
 }
 
 li a:hover {
-  background-color: pink;
+  background-color: dim;
   opacity: 0.8;
   color: white;
 }
