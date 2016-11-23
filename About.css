@@ -3,8 +3,8 @@ html {
 }
 
 body {
-  background-image: URL("http://www.92wallpapers.com/wp-content/uploads/2016/01/wildflower-wallpaper-hd-HD-picture-1920x1080-1024x576.jpg")0px 0px no-repeat;
-  backgr
+  background-image: url("http://www.92wallpapers.com/wp-content/uploads/2016/01/wildflower-wallpaper-hd-HD-picture-1920x1080-1024x576.jpg") 0px 0px no-repeat;
+  background-size:contain;
 }
 
 
