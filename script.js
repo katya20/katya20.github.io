@@ -23,4 +23,4 @@ function addDiamondRandomly() {
   })
 }
 
-addDiamondRandomly().preventDefault();
+addDiamondRandomly();
