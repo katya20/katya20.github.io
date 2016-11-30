@@ -9,7 +9,7 @@ function addDiamond() {
 
 function addDiamondRandomly() {
   var position = Math.floor((Math.random() * 750) + 1);
-  var size = Math.floor((Math.random() * 200) + 1);
+  var size = Math.floor((Math.random() * 300) + 1);
   var time = 1500
   diamond.css("top", position)
   diamond.css('left', position)
@@ -23,4 +23,4 @@ function addDiamondRandomly() {
   })
 }
 
-addDiamondRandomly();
+addDiamondRandomly().preventDefault();
