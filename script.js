@@ -21,6 +21,7 @@ function addDiamondRandomly() {
     },
     duration: time  
   })
+  console.log(position)
 }
 
 addDiamondRandomly();
